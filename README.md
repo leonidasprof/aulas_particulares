@@ -1,8 +1,6 @@
 # 🐍 Repositório de Aulas e Testes Python
 
-Bem-vindo(a) ao repositório de **Aulas e Testes**! Este repositório foi criado para 
-organizar e compartilhar materiais de estudo, exercícios práticos e testes relacionados ao 
-aprendizado em **GERAL**, com linguagens de programação mais populares e versáteis.
+Bem-vindo(a) ao repositório de **Aulas e Testes Python**! Este repositório foi criado para organizar e compartilhar materiais de estudo, exercícios práticos e testes relacionados ao aprendizado de **Python**, uma das linguagens de programação mais populares e versáteis do mundo.
 
 ---
 
@@ -11,6 +9,18 @@ O objetivo deste repositório é:
 - Fornecer scripts e exemplos para aprendizado de Python do básico ao avançado.
 - Disponibilizar exercícios práticos e testes para reforçar os conceitos.
 - Servir como um guia de consulta para desenvolvedores em diferentes níveis de conhecimento.
+
+---
+
+## ✨ **Recursos Abordados**
+Alguns dos tópicos incluídos no repositório:
+
+Introdução ao Python e configuração do ambiente.
+Estruturas de dados: listas, dicionários, tuplas e conjuntos.
+Condicionais e loops.
+Funções, classes e orientação a objetos.
+Manipulação de arquivos.
+Projetos práticos, como criação de jogos e ferramentas úteis.
 
 ---
 
